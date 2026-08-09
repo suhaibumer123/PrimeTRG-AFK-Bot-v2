@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LoyalSmpX.aternos.me:13328",
+    "ip": "LoyalSmpX.aternos.me",
     "port": 13328,
     "version": "1.21"
   },
