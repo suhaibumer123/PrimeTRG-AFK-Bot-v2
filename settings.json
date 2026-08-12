@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LoyalSmpX.aternos.me",
-    "port": 13328,
-    "version": "1.21"
+    "ip": "classyMC.aternos.me",
+    "port": 25423,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
