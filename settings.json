@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PrimeBotV1Loyal",
+    "username": "LoyalBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "LoyalSmpX.aternos.me",
-    "port": 13328,
+    "ip": "LoyalXproS1.aternos.me",
+    "port": 53996,
     "version": "1.21"
   },
   "position": {
